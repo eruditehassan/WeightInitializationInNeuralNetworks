@@ -10,7 +10,7 @@ A well chosen initialization can:
 
 Following techniques were used for Weight Initialization
 
-- init_weights_zero -- This initializes weights with zero
-- init_weights_random -- This initializes the weights to random values with standard deviation equal to 10
-- He initialization -- This initializes the weights to random values scaled according to a paper Kaiming He et al., 2015.
+1. init_weights_zero -- This initializes weights with zero
+2. init_weights_random -- This initializes the weights to random values with standard deviation equal to 10
+3. He initialization -- This initializes the weights to random values scaled according to a paper Kaiming He et al., 2015.
 
